@@ -1,4 +1,4 @@
-# swiggy_powerbi
+Using PowerBI the swiggy real-time statistics is analyzed.
 Data Analytics food delivery
 Preview:
 Page 1:
